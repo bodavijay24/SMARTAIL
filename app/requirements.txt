@@ -1,0 +1,7 @@
+cython
+setuptools
+setuptools-cythonize
+websocket
+Flask
+gunicorn
+jinja2
